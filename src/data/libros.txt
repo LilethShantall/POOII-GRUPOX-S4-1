@@ -1,4 +1,3 @@
-asdasd~asdasd~Camilo Ortega~asdasd~Terror~false
-6456034853~romeo y julieta~Mario Aguirre~texto de prueba~Romance~true
+34657283744~Los juegos del hambre~Camilo Ortega~texto de prueba~Terror~false
+64560348534~romeo y julieta~Mario Aguirre~texto de prueba~Romance~true
 45334093458~Cosmos~Luis Benito~texto de prueba~Ciencia ficción~true
-45334093458~Cosmos~Luis Benito~dbcsadhcbkadshcbk~Ciencia ficción~true
